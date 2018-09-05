@@ -1,0 +1,14 @@
+gen10|Croft, Amy|4853
+gen19|Fitzgerald, Brandon|7465
+gen12|Fong, Ji-Men|2365
+gen9|Fung, Ken|8563
+gen10|Han, Jason|6574
+gen10|Hoang, Hop|8657
+gen20|Lanferman, Alexander|3425
+gen13|Lwin, Pyi-Soe|2367
+gen12|Sira, Flavio|3756
+gen11|Stout, John|8397
+gen14|Sundara, Rhama|9154
+gen13|Tang, Michael|6892
+gen15|Todorova, Elina|5978
+gen11|Wells, Shou|3669
